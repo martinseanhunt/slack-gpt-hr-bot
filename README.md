@@ -1,4 +1,4 @@
-# Slack-GPT
+# Slack-GPT (HR bot example implementation)
 
 ## Table of Contents
 
